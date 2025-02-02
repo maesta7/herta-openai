@@ -1,0 +1,2 @@
+openai
+git+https://github.com/maesta7/herta.git
